@@ -1,0 +1,19 @@
+1. 利得表和 Δ 的计算方法再考究
+2. 区间的计算
+3. 非洲国家的nash均衡好像有问题
+4. 国家数量的增加 用爬虫
+
+
+-----------------下面开始写代码----------------
+1.货币性质：安全性，稳定性，快速，成本； 总市值
+2.国家分类：GDP，人均GDP；（成本-速度）
+          平均GDP，平均人均GDP（安全-稳定）
+          输入额，输出额：(A+A'+B+B')/(A+A') = 1 + Δ -> 自身的繁衍及增量
+ 用方差来放大差距，方差表示强烈程度，也就是利得系数
+
+GDP:  https://www.globalnote.jp/post-1409.html
+人均GDP:  https://www.globalnote.jp/post-1339.html
+输入:  https://www.globalnote.jp/post-3402.html
+输出:  https://www.globalnote.jp/post-3399.html
+
+算法要改 求大家帮忙
